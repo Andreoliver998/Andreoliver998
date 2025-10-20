@@ -5,10 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Andreoliver998"><img src="https://img.shields.io/github/followers/Andreoliver998?label=Seguidores&style=social" alt="Seguidores"></a>
-  <a href="mailto:andreoliveiratech@gmail.com"><img src="https://img.shields.io/badge/E-mail-Contato-blue?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/andreoliveiratech/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin"></a>
+  <a href="https://github.com/Andreoliver998" target="_blank">
+    <img src="https://img.shields.io/github/followers/Andreoliver998?label=Seguidores&style=social" alt="Seguidores">
+  </a>
+  <a href="mailto:andreoliver756@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-oliver-1bb173187" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
+
+
 
 ---
 
