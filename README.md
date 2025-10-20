@@ -80,7 +80,7 @@ Coleção de exemplos didáticos de estruturação de páginas em HTML5, explora
 Aplicativo web para sorteios personalizados e dinâmicos com interface simples e eficiente.  
 > **Stack:** JavaScript, HTML, CSS.
 
-#### 🧠 [Jokempo](https://github.com/Andreoliver998/Jokempo)
+#### 🧠 [Jokenpo](https://github.com/Andreoliver998/JokenP-)
 Jogo interativo de “Pedra, Papel e Tesoura” com placar automático e animações em tempo real.  
 > **Stack:** JavaScript puro e CSS3.
 
