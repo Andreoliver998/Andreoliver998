@@ -76,7 +76,7 @@ Landing page moderna e animada inspirada na Starbucks, desenvolvida para treinam
 Coleção de exemplos didáticos de estruturação de páginas em HTML5, explorando semântica, formulários e organização de conteúdo.  
 > **Stack:** HTML5, CSS3.
 
-#### 🎲 [Sorteios.web](https://github.com/Andreoliver998/Sorteios.web)
+#### 🎲 [Sorteios.web](https://github.com/Andreoliver998/Sorteio.web)
 Aplicativo web para sorteios personalizados e dinâmicos com interface simples e eficiente.  
 > **Stack:** JavaScript, HTML, CSS.
 
