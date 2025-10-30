@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Carlos André Almeida de Oliveira</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Web Full Stack | Matemático | Aprimorando em Inteligência Artificial</strong>
+  <strong>Desenvolvedor Web Full Stack |Analista de dados com python| Matemático | Aprimorando em Inteligência Artificial</strong>
 </p>
 
 <p align="center">
