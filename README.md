@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <a href="mailto:andreoliver756@gmail.com">
+  <a href="mailto:andre@paytech.app.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-oliver-1bb173187" target="_blank">
@@ -223,7 +223,7 @@ Sistema web para gestão de clientes com cadastro, edição, exclusão e busca i
 
 | Canal | Link |
 |---|---|
-| 📧 E-mail | [andreoliver756@gmail.com](mailto:andreoliver756@gmail.com) |
+| 📧 E-mail | [andre@paytech.app.br](mailto:andre@paytech.app.br) |
 | 🌐 LinkedIn | [André Oliver](https://www.linkedin.com/in/andr%C3%A9-oliver-1bb173187) |
 | 💻 GitHub | [Andreoliver998](https://github.com/Andreoliver998) |
 | 📍 Localização | Maranhão, Brasil |
