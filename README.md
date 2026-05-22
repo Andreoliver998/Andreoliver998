@@ -206,69 +206,9 @@ Sistema web para gestão de clientes com login seguro, painel administrativo, in
 
 ---
 
-### 💼 [E-commerce](https://github.com/Andreoliver998/E-commerce)
 
-Aplicação de e-commerce desenvolvida com integração entre front-end e back-end, voltada à experiência do usuário, organização de produtos e estrutura comercial.
 
-> **Stack:** HTML, CSS, JavaScript e Node.js.
 
----
-
-### ⚙️ [Conversor.web](https://github.com/Andreoliver998/Conversor.web)
-
-Ferramenta web interativa para conversão de unidades, como moedas, temperatura e medidas, com interface simples, intuitiva e responsiva.
-
-> **Stack:** HTML, CSS e JavaScript.
-
----
-
-### 🧱 [App Web](https://github.com/Andreoliver998/app_web)
-
-Sistema web desenvolvido com foco em gerenciamento de usuários, dados e estruturação de aplicação.
-
-> **Stack:** Python.
-
----
-
-### 🌐 [Project_css.mobile](https://github.com/Andreoliver998/project_css.mobile)
-
-Projeto focado em design responsivo mobile-first, utilizando boas práticas de CSS para adaptação de telas e melhoria da experiência do usuário.
-
-> **Stack:** HTML5 e CSS3.
-
----
-
-### ☕ [Starbucks](https://github.com/Andreoliver998/Starbucks)
-
-Landing page moderna inspirada na Starbucks, criada para prática de layout, tipografia, animações e responsividade.
-
-> **Stack:** HTML5, CSS3 e JavaScript.
-
----
-
-### 🧩 [Project_html](https://github.com/Andreoliver998/Project_html)
-
-Coleção de exemplos didáticos de estruturação de páginas em HTML5, explorando semântica, formulários e organização de conteúdo.
-
-> **Stack:** HTML5 e CSS3.
-
----
-
-### 🎲 [Sorteios.web](https://github.com/Andreoliver998/Sorteio.web)
-
-Aplicativo web para sorteios personalizados e dinâmicos, com interface simples e funcional.
-
-> **Stack:** JavaScript, HTML e CSS.
-
----
-
-### 🧠 [Jokenpo](https://github.com/Andreoliver998/JokenP-)
-
-Jogo interativo de “Pedra, Papel e Tesoura”, com placar automático e interação em tempo real.
-
-> **Stack:** JavaScript e CSS3.
-
----
 
 ## 📌 Competências em Desenvolvimento
 
